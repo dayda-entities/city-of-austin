@@ -10,7 +10,7 @@ source_contact_type: general
 source_phone: +1 555-555-5555
 source_email: info@example.com
 source_catalog: data.gov
-profile_pic: 'https://images-na.ssl-images-amazon.com/images/I/51uS-FI1ZtL._AC_SX355_.jpg'
+profile_pic: 'https://directory.dayda.org/assets/img/entities/city-of-austin.png'
 favicon: /assets/img/favicon.png
 url: 'http://city-of-austin.dayda.org'
 encoding: utf-8
