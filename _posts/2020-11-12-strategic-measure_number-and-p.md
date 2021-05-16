@@ -1,24 +1,20 @@
 ---
 title: >-
-  Strategic Measure_Number and percentage of creative-sector professionals who
-  indicated they benefited from a City-sponsored professional development
-  opportunity, CLL.B.4
-created: '2020-11-12T13:22:04.534059'
-modified: '2020-11-12T13:22:04.534066'
+  Strategic Measure_Number and Percentage of Residential Plan Reviews Completed
+  On Time
+created: '2020-11-12T13:28:46.440695'
+modified: '2020-11-12T13:28:46.440701'
 state: active
 type: dataset
-tags:
-  - Arts And Culture
-  - Creative Sector
-  - Economic Development
-  - Sd23
+tags: []
 groups:
   - Local Government
-csv_url: 'https://data.austintexas.gov/api/views/5gq4-y3r6/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.austintexas.gov/api/views/5gq4-y3r6/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.austintexas.gov/api/views/j27w-2gjd/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.austintexas.gov/api/views/j27w-2gjd/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-This dataset supports measure CLL.B.4 of SD23 and provides the number and percentage of creative-sector professionals who indicated they benefited from a City-sponsored professional development opportunity.
+This measure reflects the "on-time" status for completed reviews by all residential plan review disciplines that are tracked. The data is compiled using information retrieved from the City's permitting database. A review is on time if it is marked as completed by its individual due date.
 
-View more details and insights related to this data set on the story page: https://data.austintexas.gov/stories/s/rzxy-tiqz
+View more details and insights related to this data set on the story page: 
+https://data.austintexas.gov/stories/s/gsim-6kur
