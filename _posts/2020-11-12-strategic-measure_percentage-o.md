@@ -1,26 +1,20 @@
 ---
 title: >-
-  Strategic Measure_Percentage of residents younger than 65 with no health
-  insurance coverage
-created: '2020-11-12T13:29:34.272395'
-modified: '2020-11-12T13:29:34.272402'
+  Strategic Measure_Percentage of Austin's total land area covered by the tree
+  canopy
+created: '2020-11-12T13:27:29.746341'
+modified: '2020-11-12T13:27:29.746351'
 state: active
 type: dataset
-tags:
-  - Austin Public Health
-  - Health
-  - Health Equity
-  - Insurance
-  - Public Health
-  - Sd2023
-  - Sd23
+tags: []
 groups:
   - Local Government
-csv_url: 'https://data.austintexas.gov/api/views/kuzb-i7x7/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.austintexas.gov/api/views/kuzb-i7x7/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.austintexas.gov/api/views/ghu8-5enn/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.austintexas.gov/api/views/ghu8-5enn/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-The Behavioral Risk Factor Surveillance System (BRFSS) is a telephone survey conducted annually by Texas Department of State Health Services to assess a variety of health measures within the state.  The survey data assesses whether participants have health insurance coverage and uses that data to provide an estimate of insurance coverage across Travis County residents.  The measure used refers to residents who are between 18-64 years of age.  
+This measure tracks annual percentage of  tree canopy cover based on land area.
+This data is pulled directly from the Urban Forest Inventory Study conducted by the US Forestry Service in cooperation with Texas A&M. 
 
-View more details and insights related to this data set on the story page: https://data.austintexas.gov/stories/s/HE-B-1-Percentage-of-residents-younger-than-65-wit/tw9i-pdx2/
+View more details and insights related to this data set on the story page: https://data.austintexas.gov/stories/s/gkfj-bt4r
